@@ -1,0 +1,25 @@
+.rpl-section-header {
+    padding-bottom: 20px;
+}
+
+.rpl-section-img {
+    width: 200px;
+    background-color: blanchedalmond;
+    border-radius: 100%;
+}
+
+#rpl-services {
+    background-image: url("../img/bg-1.png");
+    background-size: cover;
+    color: rgb(255, 255, 255);
+}
+
+section {
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+#rpl-about {
+    background-color: rgb(90, 38, 3);
+    color: rgb(238, 176, 94);
+}
